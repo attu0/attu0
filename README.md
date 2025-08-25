@@ -31,14 +31,6 @@ My plan is to explore the peak of engineering by getting my hands dirty with cod
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=attu0&show_icons=true&locale=en&theme=radical" alt="attu0's GitHub Stats" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
