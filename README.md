@@ -13,8 +13,6 @@ My plan is to explore the peak of engineering by getting my hands dirty with cod
 ### 📬 Get in Touch
 
 -   **Email:** Reach me at **atharvmudse@gmail.com**
--   **Portfolio/Resume:** [Check out my experiences]([https://drive.google.com/file/d/1QzdswGSlDbfbwPcZeinLfL3OaVV3ryd9/view?usp=sharing](https://drive.google.com/file/d/1c87mn-f58N78VcdlJhqAzUiVVqokor4c/view?usp=drive_link))
-
 ---
 
 ### 🛠️ Languages and Tools
