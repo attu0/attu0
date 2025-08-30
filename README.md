@@ -3,10 +3,6 @@
 <h3 align="center">A Mechatronics Engineering student exploring the frontiers of robotics and software.</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0a86f9a4-0b7e-4217-897b-156dc6ada1a5" alt="cat-cat-meme">
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/h7spQ5Saebi/tenor.gif" width="200">
 </p>
 
