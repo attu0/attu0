@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  A passionate frontend deRobotics & Software Engineer | ROS 2, Gazebo, Rviz | Full Stack (MERN & Java) | Mechatronicsveloper from India</h3>
+<h3 align="left">👩‍💻  A passionate frontend Robotics & Software Engineer | ROS 2, Gazebo, Rviz | Full Stack (MERN & Java) | Mechatronicsveloper from India</h3>
 
 ###
 
