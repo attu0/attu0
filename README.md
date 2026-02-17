@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Atharv Mudse</h1>
+<h1 align="center">Hi 👋, I'm Atharv</h1>
 
 ###
 
