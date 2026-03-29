@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,100:302b63&text=Atharv%20Mudse&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Robotics%20%26%20AI%20Engineer&descSize=18&descAlign=50&descAlignY=58" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Atharv+Mudse;Robotics+%26+AI+Engineer;ROS2+%7C+Autonomous+Systems;Building+the+future+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -125,6 +125,9 @@ I build autonomous robots — from hardware to perception to navigation. Current
 
 <br/>
 
+---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:302b63,100:0f0c29&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=attu0&style=flat-square&color=a78bfa" alt="Profile views"/>
+  <br/><br/>
+  <i>⚡ "The best way to predict the future is to build it."</i>
 </div>
