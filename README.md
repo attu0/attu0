@@ -129,5 +129,5 @@ I build autonomous robots — from hardware to perception to navigation. Current
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=attu0&style=flat-square&color=a78bfa" alt="Profile views"/>
   <br/><br/>
-  <i>⚡ "The best way to predict the future is to build it."</i>
+  <i>⚡ "Whatever it takes"</i>
 </div>
