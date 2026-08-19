@@ -17,8 +17,5 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/_attu_0/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28"/>
-  </a>
 </div>
 
